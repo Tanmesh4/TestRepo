@@ -1,2 +1,5 @@
 This is the remote file
 Change 2: in file on github the remote repo
+Change3 – commit with message as “Change3 in RemoteFile”
+Change4 – commit with message as “Change4 in RemoteFile”
+made at local
