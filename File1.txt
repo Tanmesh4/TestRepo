@@ -6,3 +6,4 @@ Change 3 : done on master branch
 
 Change 1 : in file 1
 Change 2 : in file 2
+Change 4 : done on master branch to understand rebase
